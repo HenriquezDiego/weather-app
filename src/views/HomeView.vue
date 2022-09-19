@@ -2,8 +2,8 @@
   <v-container fluid class="fill-height pt-0 pb-0">
     <v-row class="fill-height">
       <v-col class="primary" md="3" sm="12"
-        ><v-row class="sidebar"> </v-row
-      ></v-col>
+        ><v-row class="sidebar"> </v-row>
+      </v-col>
       <v-col class="secondary" xs="12"></v-col> </v-row
   ></v-container>
 </template>

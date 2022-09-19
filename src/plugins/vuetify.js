@@ -6,10 +6,11 @@ Vue.use(Vuetify);
 export default new Vuetify({
   theme: {
     themes: {
-      light: {
+      dark: {
         primary: "#1E213A",
         secondary: "#100E1D",
       },
     },
+    dark: true,
   },
 });
